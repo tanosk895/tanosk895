@@ -30,7 +30,7 @@ the university allowed me to build various projects. In several small companies 
 
 ## Technologies used:
 Javascript, typescirpt, java, python, mongodb, mysql and more ... I'm still learning new things and improving my knowledge.
-## ***roblem solving***
+## ***Problem solving***
 I try to
 - Understand the problem.
 - analysis or acquisition of knowledge.
