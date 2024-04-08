@@ -12,7 +12,7 @@
 tanosk895/tanosk895 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# ***Welcome to My GitHub Profile!***
+# ***Welcome to My GitHub Profile! (English section)***
 About Me
 Hello there!
 👋 I'm Gaetano Albanese, an ex-computer science student from the University of Salerno. Passionate about technology, I'm constantly exploring new ideas and diving into exciting projects.
@@ -39,4 +39,36 @@ I try to
 
 Why not, if you got a good idea we can connect and build something awesome together! 🚀
 Get in Touch
-I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at albanese.gaetano@gmail.com .
+I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at albanese.gaetano.1995@gmail.com .
+
+
+
+
+# ***Benvenuti nel mio profilo GitHub! (Sezione Italiana)***
+Su di me
+Ciao!
+👋 Sono Gaetano Albanese, ex studente di Informatica dell'Università degli Studi di Salerno. Appassionato di tecnologia, esploro costantemente nuove idee e mi immergo in progetti entusiasmanti.
+
+## ***I miei interessi***
+Appassionato di tecnologia: nutro un profondo fascino per le ultime tendenze e innovazioni nel mondo della tecnologia.
+Linguaggi di programmazione: competente in linguaggi come Java, Python, JavaScript e altri.
+Sempre desideroso di impararne di nuovi!
+Sviluppo Web: mi piace creare applicazioni Web reattive e facili da usare utilizzando framework moderni come React.
+Ingegneria del software: dalla progettazione all'implementazione, mi piace la sfida di creare soluzioni software robuste e scalabili.
+Collaboratore Open Source: credo nel potere della collaborazione e mi piace contribuire a progetti open source quando possibile.
+
+***Progetti***
+l'università mi ha permesso di realizzare diversi progetti. In diverse piccole aziende ho potuto dare un contributo al miglioramento della logistica interna attraverso strumenti tecnologici da me costruiti.
+
+## Tecnologie utilizzate:
+Javascript, typescirpt, java, python, mongodb, mysql e altro ancora... sto ancora imparando cose nuove e migliorando le mie conoscenze.
+## ***Risoluzione dei problemi***
+Provo a
+- Comprendere il problema.
+- analisi o acquisizione di conoscenze.
+- Definizione della soluzione.
+- Regolazione e adeguamento...
+
+Perché no, se hai una buona idea possiamo connetterci e costruire qualcosa di fantastico insieme! 🚀
+Mettiti in contatto
+Sono sempre aperto a nuove opportunità e collaborazioni. Sentitevi liberi di contattarmi via email a albanese.gaetano.1995@gmail.com.
