@@ -40,10 +40,7 @@ I try to
 Why not, if you got a good idea we can connect and build something awesome together! 🚀
 Get in Touch
 I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at albanese.gaetano.1995@gmail.com .
-
-
-
-
+<br><br><br><br>
 # ***Benvenuti nel mio profilo GitHub! (Sezione Italiana)***
 Su di me
 Ciao!
