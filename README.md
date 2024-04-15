@@ -37,7 +37,7 @@ I try to
 - Definition of the solution.
 - Regulation and adaptation...
 
-Why not, if you got a good idea we can connect and build something awesome together! 🚀
+📫 Why not, if you got a good idea we can connect and build something awesome together! 🚀
 Get in Touch
 I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at albanese.gaetano.1995@gmail.com .
 <br><br><br><br>
@@ -66,6 +66,6 @@ Provo a
 - Definizione della soluzione.
 - Regolazione e adeguamento...
 
-Perché no, se hai una buona idea possiamo connetterci e costruire qualcosa di fantastico insieme! 🚀
+📫 Perché no, se hai una buona idea possiamo connetterci e costruire qualcosa di fantastico insieme! 🚀
 Mettiti in contatto
 Sono sempre aperto a nuove opportunità e collaborazioni. Sentitevi liberi di contattarmi via email a albanese.gaetano.1995@gmail.com.
