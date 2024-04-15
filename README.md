@@ -29,7 +29,7 @@ Open Source Contributor: I believe in the power of collaboration and enjoy contr
 the university allowed me to build various projects. In several small companies I was able to make a contribution to improving internal logistics through technological tools I built.
 
 ## Technologies used:
-Javascript, typescirpt, java, python, mongodb, mysql and more ... I'm still learning new things and improving my knowledge.
+Javascript, typescipt, java, python, mongodb, mysql and more ... I'm still learning new things and improving my knowledge.
 ## ***Problem solving***
 I try to
 - Understand the problem.
